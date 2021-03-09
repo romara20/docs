@@ -27,7 +27,7 @@ Anyone can manage the spending limit for {% data variables.product.prodname_acti
 {% data reusables.user_settings.access_settings %}
 {% data reusables.user_settings.billing %}
 {% data reusables.user_settings.cost-management-tab %}
-{% data reusables.dotcom_billing.monthly-spending-limit %}
+{% data reusabless.dotcom_billing.monthly-spending-limit %}
 {% data reusables.dotcom_billing.update-spending-limit %}
 
 ### Managing the spending limit for {% data variables.product.prodname_actions %} for your organization
